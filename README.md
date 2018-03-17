@@ -1,2 +1,7 @@
-# w2m-rncamp2018
-Links for my talk on React Native Camp 2018
+# WEB TO MOBILE via REACT NATIVE
+
+Presentation on React Native Camp, March 31st, 2018
+
+## React Native & ecosystem
+
+#### ANIMATIONS

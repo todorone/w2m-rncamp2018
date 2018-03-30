@@ -2,8 +2,6 @@
 
 Presentation on React Native Camp, March 31st, 2018
 
-## React Native & ecosystem
-
 #### ANIMATIONS
 [LayoutAnimation](https://facebook.github.io/react-native/docs/layoutanimation.html)  
 [Animated](https://facebook.github.io/react-native/docs/animated.html)  
@@ -24,10 +22,30 @@ Presentation on React Native Camp, March 31st, 2018
 [mobx](https://mobx.js.org/index.html)  
 [mobx-state-tree](https://github.com/mobxjs/mobx-state-tree)  
 
+#### UI FRAMEWORKS
+[NativeBase](https://nativebase.io/)  
+[Shoutem UI](https://shoutem.github.io/docs/ui-toolkit/introduction)  
+[React Native Elements](https://react-native-training.github.io/react-native-elements/)  
+[React Native Paper](https://callstack.github.io/react-native-paper/)  
 
-
+#### CI/CD TOOLS & SERVICES
+[Fastlane](https://fastlane.tools/)  
+[BitRise](https://www.bitrise.io/)  
+[Travis](https://travis-ci.org/)  
+[Microsoft App Center](https://appcenter.ms/)  
 
 #### REACT NATIVE ARCHITECTURE
-
 [What happens when my React Native application starts?](https://levelup.gitconnected.com/wait-what-happens-when-my-react-native-application-starts-an-in-depth-look-inside-react-native-5f306ef3250f)  
 [Snoopy - tool for profiling RN bridge](https://github.com/jondot/rn-snoopy)  
+
+#### STAY UP-TO-DATE
+
+React Native EU  
+React Chain  
+React Conf  
+
+Expo  
+Wix  
+Airbnb  
+Callstack  
+Infinite Red  

@@ -49,21 +49,25 @@ Presentation on React Native Camp, March 31st, 2018
 [Detox](https://github.com/wix/detox)  
 [Cavy](https://github.com/pixielabs/cavy)  
 
+#### ERROR TRACKING TOOLS
+[Sentry](https://sentry.io/)  
+[Crashlytics](https://firebase.google.com/docs/crashlytics/)  
+
 #### CI/CD TOOLS & SERVICES
 [Fastlane](https://fastlane.tools/)  
 [BitRise](https://www.bitrise.io/)  
 [Travis](https://travis-ci.org/)  
 [Microsoft App Center](https://appcenter.ms/)  
 
+#### PATCHING
+[patch-package](https://github.com/ds300/patch-package)  
 
 #### STAY UP-TO-DATE
 
-React Native EU  
-React Chain  
-React Conf  
+[React Native EU](http://react-native.eu/)  
+[React Chain](https://infinite.red/ChainReactConf)    
 
-Expo  
-Wix  
-Airbnb  
-Callstack  
-Infinite Red  
+[Expo](https://expo.io/)  
+[Wix](https://github.com/wix)  
+[Callstack](https://github.com/callstack)  
+[Infinite Red](https://github.com/infinitered)  
